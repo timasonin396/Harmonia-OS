@@ -1,4 +1,4 @@
-# **HarmoniOS**   # **HarmoniOS**  # **HarmoniOS**   Launcher • Winlator • Termu • Custom UX  Open source Experimental System
+# **HarmoniOS**    **HarmoniOS**   **HarmoniOS**   Launcher • Winlator • Termu • Custom UX  Open source Experimental System
 
 HarmoniOS — это экспериментальная попытка создать гибридную среду, объединяющую Android, Linux‑инструменты и Windows‑приложения через Winlator.  
 Проект находится на ранней стадии: сейчас формируется архитектура, интерфейс и общее направление развития.
@@ -22,8 +22,7 @@ HarmoniOS задуман как:
 
 ## Участие
 
-Проект открыт для всех, кому интересны альтернативные интерфейсы, Android‑разработка, Winlator, Termux или просто экспериментальные системы.  
-, Winlator,
+Проект открыт для всех, кому интересны альтернативные интерфейсы, Android‑разработка, Winlator, Termux или просто экспериментальные системы.
 
 ---
 
